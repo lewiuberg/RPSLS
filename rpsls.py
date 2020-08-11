@@ -1,4 +1,4 @@
-# Importing functions and/or modules.
+# ## Importing functions and/or modules.
 import sys
 import time
 from os import system
